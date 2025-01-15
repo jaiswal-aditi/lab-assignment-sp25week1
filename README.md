@@ -34,4 +34,4 @@ Make sure you have your final submission in before the deadline has passed.
 
 You will not be able to submit changes after the deadline has passed.
 
-For any questions, please reach out to Dr. Katy Tarrit (katytm7@hawaii.edu) AND Rajan Sawhney (rsawhney@hawaii.edu)
+For any questions, please reach out to Dr. Katy Tarrit (katytm7@hawaii.edu) AND Aditi Jaiswal (ajaiswal@hawaii.edu)
