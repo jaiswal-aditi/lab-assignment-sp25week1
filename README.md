@@ -16,14 +16,8 @@
 7. Click on "Commit Changes" button. Your code changes have been submitted!
 
 ### To check whether your code changes passed:
-1. Click on "Pull Requests" on the top
-2. Click on "Feedback" to open Feedback page
-3. If you last code change passed, you will see a green check mark against your commit message. If it did not pass, you will see a red cross.
+1. Click on Actions tab at the top. For each workflow (i.e. changing the code and pushing the edits) you'll see a green check mark or red cross depending on whether your code has successfully passed or not.
 
-### To investigate how your code performed:
-1. On the Feedback page, click on "Show all checks" on the bottom right. You can skip this step if you see "Hide all checks"
-2. Click on "Details"
-3. Expand the desired section. If your code did not pass, you will expand "Run education/autograding@v1" and see the error message.
 
 ### Note:
 We strongly recommend you run your finished programs on your local machine/laptop first to test if they are working correctly. You should always test on your laptop first, and then copy the finished code to github. Test your program on your machine using the instructions you received in the lab sessions.
